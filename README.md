@@ -20,3 +20,5 @@ You can use this program for generate the passwords for your accounts and save i
     python3 main.py
 
 <h3>Contribution:</h3>
+
+Feel free to contribute to the project by opening issues or pull requests.
